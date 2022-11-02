@@ -1,6 +1,6 @@
 # Utiliti Examples
 
-Welcome to the Utiliti Examples organiztion created by @mikeyb
+Welcome to the Utiliti Examples organiztion created by [mikeyb](https://github.com/mikeyb)
 
 The goal of this is to document my experiences learning NextJS to implement Utiliti's API service to interact with various pieces of blockchain/web3 technology.
 
